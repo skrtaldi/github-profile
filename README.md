@@ -11,18 +11,31 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 - 📫 How to reach me : mohkosim8014@gmail.com
 
 ## Tech Stack
-  <a href="https://www.figma.com/">
+<a href="https://www.figma.com/" target="_blank">
   <img align="left" alt="Figma" title="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
 </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 </a>
+<a href="https://laravel.com/" target="_blank">
+  <img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank">
+  <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+</a>
+<a href="https://flowbite.com/" target="_blank">
+  <img align="left" alt="Flowbite" title="Flowbite" width="30px" src="https://flowbite.com/docs/images/logo.svg" />
+</a>
+
   <br>
   <br>
   
