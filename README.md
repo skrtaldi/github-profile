@@ -59,11 +59,15 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 </p>
 
 ## Follow me
-<a href="https://linkedin.com/in/moh-kosim-2064892b7/" target="_blank">
-  <img align="left" alt="LinkedIn" title="LinkedIn - Moh Kosim" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
-</a> 
-<a href="https://www.instagram.com/moh.kosim643_?igsh=cWVqYnBra2V4ZnEz" target="_blank">
-  <img align="left" alt="Instagram" title="Instagram - @moh.kosim643_" width="30px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
+<a href="https://linkedin.com/in/moh-kosim-2064892b7/" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+  <img alt="LinkedIn" title="LinkedIn - Moh Kosim" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+  <span style="font-size: 16px; color: black;">LinkedIn - Moh Kosim</span>
+</a>  
+<br>  
+<a href="https://www.instagram.com/moh.kosim643_?igsh=cWVqYnBra2V4ZnEz" target="_blank" style="display: flex; align-items: center; gap: 8px; text-decoration: none;">
+  <img alt="Instagram" title="Instagram - @moh.kosim643_" width="30px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
+  <span style="font-size: 16px; color: black;">Instagram - @moh.kosim643_</span>
 </a>
+
 
 
