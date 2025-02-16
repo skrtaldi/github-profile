@@ -23,9 +23,14 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 </a>
+  <br>
+  <br>
+  
+## 🛠️ Skills & Technologies
 
-  <br>
-  <br>
+### Front-End
+- HTML5, CSS3, JavaScript
+- Tailwind CSS, Bootstrap
   
 ### Github Statistic
 <p align="left">
@@ -35,7 +40,7 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 </a>
 </p>
 
-### Reach me on
+### Foolow Me..
 <a href="https://linkedin.com/in/moh-kosim-2064892b7/" target="_blank">
   <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a> 
