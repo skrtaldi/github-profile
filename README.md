@@ -19,9 +19,6 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Flowbite](https://img.shields.io/badge/Flowbite-%230064ff.svg?style=for-the-badge&logo=flowbite&logoColor=white)](https://flowbite.com/)
-
-
-  <br>
   <br>
   
 ## 🛠️ Skills & Technologies
