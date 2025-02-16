@@ -9,8 +9,8 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 - 💬 Ask me about website design
 - ⚡ Fun fact: beginner
 - 📫 How to reach me : mohkosim8014@gmail.com
-  
-### Tech Stack
+
+## Tech Stack
   <a href="https://www.figma.com/">
   <img align="left" alt="Figma" title="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 </a> 
@@ -32,7 +32,7 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 - HTML5, CSS3, JavaScript
 - Tailwind CSS, Bootstrap
   
-### Github Statistic
+## Github Statistic
 <p align="left">
 <a href="https://github.com/MohKosim">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohKosim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -40,7 +40,7 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 </a>
 </p>
 
-### Foolow Me..
+## Follow me
 <a href="https://linkedin.com/in/moh-kosim-2064892b7/" target="_blank">
   <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a> 
