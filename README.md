@@ -59,17 +59,9 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 </p>
 
 ## Follow me
-<div class="social-container">
-  🔍 You Can Find Me at
-  <a href="https://linkedin.com/in/moh-kosim-2064892b7/" target="_blank" class="social-box linkedin">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" />
-    LINKEDIN
-  </a>
-  <a href="https://www.instagram.com/moh.kosim643_?igsh=cWVqYnBra2V4ZnEz" target="_blank" class="social-box instagram">
-    <img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" alt="Instagram" />
-    INSTAGRAM
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moh-kosim-2064892b7/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moh.kosim643_/)
+
 
 
 
