@@ -20,14 +20,12 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/MohKosim">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohKosim&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohKosim&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://linkedin.com/in/moh-kosim-2064892b7/">LinkedIn</a>
+- <a href="https://www.instagram.com/moh.kosim643_?igsh=cWVqYnBra2V4ZnEz">Instagram</a>
