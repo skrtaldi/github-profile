@@ -8,6 +8,7 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 - 🌱 I'm currently learning about Frond-and Developer and UI/UX Designer
 - 💬 Ask me about website design
 - ⚡ Fun fact: beginner
+- 📫 How to reach me : mohkosim8014@gmail.com
   
 ### Tech Stack
   <a href="https://www.figma.com/">
@@ -35,5 +36,10 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/moh-kosim-2064892b7/">LinkedIn</a>
-- <a href="https://www.instagram.com/moh.kosim643_?igsh=cWVqYnBra2V4ZnEz">Instagram</a>
+<a href="https://linkedin.com/in/moh-kosim-2064892b7/" target="_blank">
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="30px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
+</a> 
+<a href="https://www.instagram.com/moh.kosim643_?igsh=cWVqYnBra2V4ZnEz" target="_blank">
+  <img align="left" alt="Instagram" title="Instagram" width="30px" src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" />
+</a>
+
