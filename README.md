@@ -42,13 +42,13 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 ## 🛠️ Skills & Technologies
 
 ### Front-End
-✅ Figma → Alat desain UI/UX <br>
-✅ HTML → Struktur dasar halaman web <br>
-✅ CSS → Styling halaman web <br>
-✅ JavaScript → Bahasa pemrograman untuk interaktivitas <br>
-✅ Bootstrap → Framework CSS untuk desain responsif <br>
-✅ Tailwind CSS → Framework CSS utility-first <br>
-✅ Flowbite → Komponen UI berbasis Tailwind CSS <br>
+✅ **Figma** → UI/UX design tool <br>  
+✅ **HTML** → Basic structure of web pages <br>  
+✅ **CSS** → Styling for web pages <br>  
+✅ **JavaScript** → Programming language for interactivity <br>  
+✅ **Bootstrap** → CSS framework for responsive design <br>  
+✅ **Tailwind CSS** → Utility-first CSS framework <br>  
+✅ **Flowbite** → UI components based on Tailwind CSS <br>
 
 ## Github Statistic
 <p align="left">
