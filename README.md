@@ -42,9 +42,14 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 ## 🛠️ Skills & Technologies
 
 ### Front-End
-- HTML5, CSS3, JavaScript
-- Tailwind CSS, Bootstrap
-  
+✅ Figma → Alat desain UI/UX
+✅ HTML → Struktur dasar halaman web
+✅ CSS → Styling halaman web
+✅ JavaScript → Bahasa pemrograman untuk interaktivitas
+✅ Bootstrap → Framework CSS untuk desain responsif
+✅ Tailwind CSS → Framework CSS utility-first
+✅ Flowbite → Komponen UI berbasis Tailwind CSS
+
 ## Github Statistic
 <p align="left">
 <a href="https://github.com/MohKosim">
