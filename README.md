@@ -11,30 +11,15 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 - 📫 How to reach me : mohkosim8014@gmail.com
 
 ## Tech Stack
-<a href="https://www.figma.com/" target="_blank">
-  <img align="left" alt="Figma" title="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img align="left" alt="HTML" title="HTML" width="30px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img align="left" alt="CSS" title="CSS" width="30px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-</a>
-<a href="https://laravel.com/" target="_blank">
-  <img align="left" alt="Laravel" title="Laravel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-  <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
-</a>
-<a href="https://flowbite.com/" target="_blank">
-  <img align="left" alt="Flowbite" title="Flowbite" width="30px" src="https://flowbite.com/docs/images/logo.svg" />
-</a>
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Flowbite](https://img.shields.io/badge/Flowbite-%230064ff.svg?style=for-the-badge&logo=flowbite&logoColor=white)](https://flowbite.com/)
+
 
   <br>
   <br>
