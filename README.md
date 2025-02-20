@@ -5,7 +5,7 @@ A website designer with a deep interest in creating engaging and functional inte
 I actively develop various projects, including using Laravel and Tailwind CSS, to build responsive and aesthetic interfaces.
 
 - 🔭 I’m currently working on @dicodingacademy
-- 🌱 I'm currently learning about Frond-and Developer and UI/UX Designer
+- 🌱 I'm currently learning about NextJS and Machine Learning
 - 💬 Ask me about website design
 - ⚡ Fun fact: beginner
 - 📫 How to reach me : aldidybalaaa@gmail.com
