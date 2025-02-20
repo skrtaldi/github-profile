@@ -6,8 +6,8 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 
 - 🔭 I’m currently working on @dicodingacademy
 - 🌱 I'm currently learning about NextJS and Machine Learning
-- 💬 Ask me about website design
-- ⚡ Fun fact: beginner
+- 💬 Ask me about football manager
+- ⚡ Fun fact: im so in love to play football manager
 - 📫 How to reach me : aldidybalaaa@gmail.com
 
 ## Tech Stack
