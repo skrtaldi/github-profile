@@ -31,7 +31,7 @@ I actively develop various projects, including using Laravel and Tailwind CSS, t
 
 ## Github Statistic
 <p align="left">
-<a href="https://github.com/MohKosim">
+<a href="https://github.com/skrtaldi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=skrtaldi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=skrtaldi&layout=compact&langs_count=8&theme=algolia"/>
 </a>
